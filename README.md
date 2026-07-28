@@ -16,7 +16,7 @@ Passionate about game development, game design, and exploring how games work und
 | **Primary & Game Dev** | `C++` • `C#` • `OpenGL` • `Unity` • `Godot` • `Git` |
 | **Game Design & Concepts** | Game Mechanics • Prototyping • Level Design Basics |
 | **Cross-Platform & Mobile** | `Flutter` • `Dart` |
-| **Secondary / Familiar** | `Python` *(Tutoring experience)* • `Java` • `SQL` • `HTML/CSS/Bootstrap` |
+| **Secondary / Familiar** | `Python` • `Java` • `SQL` • `HTML/CSS/Bootstrap` |
 | **Environment & Tools** | `Visual Studio` • `VS Code` • `GitHub` |
 
 ---
