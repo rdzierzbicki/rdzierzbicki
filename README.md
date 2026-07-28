@@ -26,7 +26,8 @@ Passionate about game development, game design, and exploring how games work und
 * ⚙️ **[NFSEngine / Out of Tune](https://github.com/rdzierzbicki/PBL_ZTGK)** — Custom 3D C++/OpenGL game & engine.
 * 📱 **[Sims Companion](https://github.com/rdzierzbicki/Sims-Companion)** — Cross-platform utility app built with Flutter & Dart.
 * 🧩 **[LeetCode Solutions](https://github.com/rdzierzbicki/LeetCode-Solutions)** — Algorithmic problem solving in C++.
-
+* 👾 **[Bullet-Hell Godot Prototype](https://github.com/rdzierzbicki/Bullet-Hell-Godot-Prototype)** — Solo 2D Bullet-Hell prototype built in Godot Engine with custom graphics.
+  
 ---
 
 ### 📬 Get in Touch
